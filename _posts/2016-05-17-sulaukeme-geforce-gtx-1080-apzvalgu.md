@@ -11,7 +11,7 @@ permalink: >
   http://www.technews.lt/portal/news/sulaukeme-geforce-gtx-1080-apzvalgu/
 published: true
 ---
-Pagaliau sulaukėme naujos kartos vaizdo plokščių, o tiksliau „GeForce GTX 1080“ apžvalgų. Pačią plokštę parduotuvėse galėsime įsigyti jau gegužės 27 dieną. Nieko nuostabaus, kad „nVidia“ naujiena duoda į kaulus pirmtakams, skirtumas nėra revoliucinis, bet pakankamai solidus 25-35 % greičiau nei GTX 980 Ti. Daugiau informacijos apie naują „nVidia“ flagmaną rasite apžvalgų suvestinėje.
+Pagaliau sulaukėme naujos kartos vaizdo plokščių, o tiksliau „GeForce GTX 1080“ apžvalgų. Pačią plokštę parduotuvėse galėsime įsigyti jau gegužės 27 dieną. Nieko nuostabaus, kad „nVidia“ naujiena duoda į kaulus pirmtakams: skirtumas nėra revoliucinis, bet pakankamai solidus - 25-35 % greičiau nei GTX 980 Ti. Daugiau informacijos apie naują „nVidia“ flagmaną rasite apžvalgų suvestinėje.
 
 <strong>Apžvalgos:</strong>
 <ul>
