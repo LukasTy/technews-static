@@ -36,7 +36,6 @@ Pagaliau sulaukėme naujos kartos vaizdo plokščių, o tiksliau „GeForce GTX 
  	<li>„<a href="http://arstechnica.co.uk/gadgets/2016/05/nvidia-gtx-1080-review/">ArsTechnica</a>“</li>
  	<li>„<a href="http://www.hardwarecanucks.com/forum/hardware-canucks-reviews/72560-nvidias-gtx-1080-gtx-1070-detailed.html">HardwareCanucks</a>“</li>
  	<li>„<a href="http://www.computerbase.de/2016-05/geforce-gtx-1080-test/">ComputerBase</a>“</li>
- 	<li>„<a href="http://www.pcgameshardware.de/Nvidia-Geforce-Grafikkarte-255598/Specials/Benchmark-Test-Video-1195464/">PCGamesHardware</a>“</li>
  	<li>„<a href="https://www.youtube.com/watch?v=-ZG54Da2pMM">DigitalFoundry</a>“ (video)</li>
 </ul>
 &nbsp;
