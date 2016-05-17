@@ -1,7 +1,7 @@
 ---
 ID: 20549
 post_title: >
-  Europos Sąjunga „Google“ ruošia 3
+  Europos Komisija „Google“ ruošia 3
   mlrd. Eurų baudą
 author: Mindaugas Klumbis
 post_date: 2016-05-17 10:11:55
