@@ -13,5 +13,5 @@ published: true
 
 Žemesnėje kategorijoje įnirtingai kovoja „FireFox“ ir „IE &amp; Edge“ naršyklės su apie 16 % rinkos dalies. Abi naršyklės palaipsniui netenka savo klientų.
 
-Ketvirtoje vietoje su 8.4 % pyrago dalies – „Opera“ naršyklė ir kiti. Jų naudotojų skaičius per paskutinius tris mėnesius nekito ir buvo stabilus.
+Ketvirtoje vietoje su 8.4 % pyrago dalies – „Opera“,  „Safari“ ir kitos naršyklės. Jų naudotojų skaičius per paskutinius tris mėnesius nekito ir buvo stabilus.
 <p style="text-align: center"><a href="http://www.technews.lt/portal/wp-content/uploads/2016/05/ww-desktop-browser-apr-2016.png"><img class="alignnone wp-image-20616 size-full" src="http://www.technews.lt/portal/wp-content/uploads/2016/05/ww-desktop-browser-apr-2016.png" alt="ww-desktop-browser-apr-2016" width="1281" height="743" /></a></p>
