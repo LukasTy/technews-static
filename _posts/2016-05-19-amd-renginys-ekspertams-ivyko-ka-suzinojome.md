@@ -15,7 +15,7 @@ Vakar vyko AMD renginys ekspertams. Kompanija žadėjo, kad jo metu bus pažvelg
 
 AMD renginio metu visgi netylėjo ir pareiškė, kad jau artimiausiomis savaitėmis bei mėnesiais išvysime tiek pačios AMD kurtas, tiek partnerių patobulintas „Polaris“ vaizdo plokštes.
 
-Kompanija teigia, kad pagrindinė „Polaris“ architektūros savybė yra asinchroninis apdorojimas, leidžiantis efektyviai išnaudoti grafikos procesoriaus resursus, naudojantis DirectX12 ar Vulkan API. AMD teigia, kad bus labai agresyvūs ir stengsis, kad šią savybę galėtų išnaudoti kuo daugiau dabar kuriamų žaidimų.
+Kompanija teigia, kad pagrindinė „Polaris“ architektūros savybė yra asinchroninis apdorojimas, leidžiantis efektyviai išnaudoti grafikos procesoriaus resursus, naudojantis DirectX 12 ar Vulkan API. AMD teigia, kad bus labai agresyvūs ir stengsis, kad šią savybę galėtų išnaudoti kuo daugiau dabar kuriamų žaidimų.
 
 „Polaris“ taip pat gebės atlikti aparatinį H.265 video apdorojimą bei palaikys 10 bit dekodavimą.
 
