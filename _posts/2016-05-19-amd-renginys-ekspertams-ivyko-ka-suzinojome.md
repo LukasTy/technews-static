@@ -13,7 +13,7 @@ published: true
 ---
 Vakar vyko AMD renginys ekspertams. Kompanija žadėjo, kad jo metu bus pažvelgta į „Polaris“ iš arčiau, bet kaip dažnai būna su AMD, kompanija labai šykščiai dalinasi informacija apie naujus produktus ir viską pateikia gan abstrakčiai.
 
-AMD renginio metu visgi netylėjo ir pareiškė, kad jau artimiausiomis savaitėmis bei mėnesiais išvysime tiek pačios AMD kurtas, tiek partnerių patobulintas „Polaris“ vaizdo plokštes. 
+AMD renginio metu visgi netylėjo ir pareiškė, kad jau artimiausiomis savaitėmis bei mėnesiais išvysime tiek pačios AMD kurtas, tiek partnerių patobulintas „Polaris“ vaizdo plokštes.
 
 Kompanija teigia, kad pagrindinė „Polaris“ architektūros savybė yra asinchroninis apdorojimas, leidžiantis efektyviai išnaudoti grafikos procesoriaus resursus, naudojantis DirectX12 ar Vulkan API. AMD teigia, kad bus labai agresyvūs ir stengsis, kad šią savybę galėtų išnaudoti kuo daugiau dabar kuriamų žaidimų.
 
@@ -25,4 +25,4 @@ AMD paklausus apie būsimų vaizdo plokščių energetinį efektyvumą buvo atsk
 
 Įdomu, kad AMD užsiminė, kad partneriai turės laisvas rankas modifikuoti „Polaris“ dažnius kaip jiems patinka, taip pasiekiant kuo didesnę spartą išspaudžiant iš lustų visas sultis.
 
-<img src="http://www.technews.lt/portal/wp-content/uploads/2016/04/AMD-Polaris-Architecture-Block-Diagram-500x231.jpg" alt="AMD-Polaris-Architecture-Block-Diagram" width="500" height="231" class="alignnone size-medium wp-image-19430" />
+<a href="http://www.technews.lt/portal/wp-content/uploads/2016/04/AMD-Polaris-Architecture-Block-Diagram.jpg"><img class="alignnone wp-image-19430 size-full" src="http://www.technews.lt/portal/wp-content/uploads/2016/04/AMD-Polaris-Architecture-Block-Diagram.jpg" alt="AMD-Polaris-Architecture-Block-Diagram" width="1340" height="618" /></a>
