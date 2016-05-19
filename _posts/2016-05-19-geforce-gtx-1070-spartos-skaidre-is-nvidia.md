@@ -11,7 +11,7 @@ permalink: >
   http://www.technews.lt/portal/news/geforce-gtx-1070-spartos-skaidre-is-nvidia/
 published: true
 ---
-Pasirodė skaidrė, kurioje „nVidia“ parodo kokios spartos galime tikėtis iš „GeFroce GTX 1070“. Pateiktoje nuotraukoje matome GTX 1070 palyginimą su savo pirmtaku GTX 970.
+Pasirodė skaidrė, kurioje „nVidia“ praneša kokios spartos galime tikėtis iš „GeFroce GTX 1070“. Pateiktoje nuotraukoje matome GTX 1070 palyginimą su savo pirmtaku GTX 970. O visa tai galite pamatyti <a href="http://www.geforce.com/hardware/10series/geforce-gtx-1070">oficialiame GTX 1070 puslapyje</a>.
 
 Kaip ir galime tikėtis naujos vaizdo plokštės pranašumas yra akivaizdus. Virtualios realybės teste GTX 1070 yra daugiau nei dvigubai spartesnė už GTX 970. Įprastuose žaidimuose pranašumas yra kiek kuklesnis ir siekia 70-80 %.
 
