@@ -41,7 +41,7 @@ Pirma panagrinėkime į „<a href="http://www.computerbase.de/2016-05/geforce-g
 
 &nbsp;
 
-Kitos <a href="http://wccftech.com/nvidia-gtx-1080-async-compute-detailed/">pateiktos</a> lentelės patvirtina jau matytus rezultatus, naudojant 4K raiška GTX 1080 sparta įjungus DX 12 krenta. Žemesnėje 1440p raiškoje GTX 1080 įgalinus DX 12 sparta išauga.
+Kitos <a href="http://wccftech.com/nvidia-gtx-1080-async-compute-detailed/">pateiktos</a> lentelės patvirtina jau matytus rezultatus, naudojant 4K raiška GTX 1080 sparta įjungus DX 12 krenta. Žemesnėje, 1440p raiškoje įgalinus DX 12 GTX 1080 sparta išauga.
 <p style="text-align: center"><a href="http://www.technews.lt/portal/wp-content/uploads/2016/05/DirectX-12-Async-Compute-Performance-1440p-GTX-1080-Fury-X-GTX-980-Ti.png"><img class="aligncenter wp-image-20595 size-full" src="http://www.technews.lt/portal/wp-content/uploads/2016/05/DirectX-12-Async-Compute-Performance-1440p-GTX-1080-Fury-X-GTX-980-Ti.png" alt="DirectX-12-Async-Compute-Performance-1440p-GTX-1080-Fury-X-GTX-980-Ti" width="614" height="544" /></a><a href="http://www.technews.lt/portal/wp-content/uploads/2016/05/DirectX-12-Async-Compute-Performance-4K-GTX-1080-Fury-X-GTX-980-Ti.png"><img class="alignleft wp-image-20596 size-thumbnail" src="http://www.technews.lt/portal/wp-content/uploads/2016/05/DirectX-12-Async-Compute-Performance-4K-GTX-1080-Fury-X-GTX-980-Ti-150x150.png" alt="DirectX-12-Async-Compute-Performance-4K-GTX-1080-Fury-X-GTX-980-Ti" width="150" height="150" /></a></p>
 &nbsp;
 
