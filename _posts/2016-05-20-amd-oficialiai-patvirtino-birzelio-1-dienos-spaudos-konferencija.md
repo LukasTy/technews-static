@@ -13,12 +13,12 @@ published: true
 ---
 Kiek seniau <a href="http://www.technews.lt/portal/news/polaris-vaizdo-plokstes-gali-buti-isleidziamos-computex-parodoje/">rašėme</a>, kad AMD tikriausiai surengs spaudos konferenciją birželio pirmą dieną „Computex“ parodoje. Dabar ši informacija tampa oficialia.
 
-Šis renginys bus tiesiogiai transliuojamas internetu, tad net nebūnant vietoje galėsime pamatyti ką turi pasakyti AMD.
+Šis renginys bus tiesiogiai transliuojamas internetu, tad net nebūnant vietoje galėsime pamatyti, ką turi pasakyti AMD.
 
-Šios spaudos konferencijos metu visi tikisi daugiau žinių apie „Polaris“ ar net šių vaizdo plokščių anonso. AMD oficialiame pranešime užsimenama tik apie „Polaris Atnaujinimus“, ką tai reiškia pasakyti negali niekas.
+Šios spaudos konferencijos metu visi tikisi daugiau žinių apie „Polaris“ ar net šių vaizdo plokščių anonso. AMD oficialiame pranešime užsimenama tik apie „Polaris atnaujinimus“ (angl. Polaris updates). Ką tai reiškia pasakyti negali niekas.
 
 To pačio renginio metu tikrai sulauksime 7-os kartos APU procesorių pristatymo, kurie kelia daug menkesnį susidomėjimą nei naujos vaizdo plokštės.
-<p style="text-align: center"><a href="http://www.technews.lt/portal/wp-content/uploads/2016/05/2016-05-20-00_42_32-amd-event.png-868×1255.png"><img class="alignnone wp-image-20632 size-full" src="http://www.technews.lt/portal/wp-content/uploads/2016/05/2016-05-20-00_42_32-amd-event.png-868×1255.png" alt="2016-05-20-00_42_32-amd-event.png-868×1255" width="910" height="166" /></a></p>
+<p style="text-align: center;"><a href="http://www.technews.lt/portal/wp-content/uploads/2016/05/2016-05-20-00_42_32-amd-event.png-868×1255.png"><img class="alignnone wp-image-20632 size-full" src="http://www.technews.lt/portal/wp-content/uploads/2016/05/2016-05-20-00_42_32-amd-event.png-868×1255.png" alt="2016-05-20-00_42_32-amd-event.png-868×1255" width="910" height="166" /></a></p>
 
 <blockquote><strong>Event Will Feature Launch of 7th Generation AMD A-Series Processors, Polaris Updates and More</strong>
 
