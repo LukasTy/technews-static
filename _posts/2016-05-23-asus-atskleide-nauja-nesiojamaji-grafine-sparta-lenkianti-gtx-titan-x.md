@@ -9,7 +9,7 @@ post_date: 2016-05-23 13:00:43
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.technews.lt/portal/news/20814/
+  http://www.technews.lt/portal/news/asus-atskleide-nauja-nesiojamaji-grafine-sparta-lenkianti-gtx-titan-x/
 published: true
 ---
 <p style="text-align: justify;">Savaitgalį „Asus“ pabandė susprogdinti tikrą bombą, paviešinę keletą naujojo ROG serijos nešiojamojo kompiuterio fotografijų-erzintojų (angl. teaser). Specialioje <a href="http://rog.asus.com/23312016/">ROG paskyroje</a> skelbiama, kad kompanijos R&amp;D skyrius jau yra paruošęs spartinimo galimybę turintį nešiojamą kompiuterį, kuris pasiūlys didžiulį spartos šuolį ir prilygs stacionariems žaidimų kompiuteriams. Net nepasinaudojus spartinimo galimybe naujasis „Asus“ nešiojamasis „3DMark 11“ teste, „Performance“ nustatymais, renka kiek daugiau nei 20 800 taškų (būnant visiškai tiksliems 20 811) ir nežymiai lenkia stacionarią sistemą su GTX Titan X.</p>
