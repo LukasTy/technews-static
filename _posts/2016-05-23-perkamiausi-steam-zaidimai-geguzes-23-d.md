@@ -13,7 +13,7 @@ published: true
 ---
 Perkamiausių „Steam“ žaidimų topo viršūnė daugiau mažiau keičiasi kiekvieną savaitę, tad pažiūrėkime kas dabar yra populiaru tarp žaidėjų.
 
-Pirmoje vietoje pagal perkamumą – „Total War: Warhammer“, žaidimas išleidžiamas rytoj, todėl jo buvimas topo viršūnėje netūrėtų stebinti. Antras pagal perkamumą yra „DOOM“, kaip žinome žaidimas dienos šviesą išvydo daugiau nei prieš savaitę. Trečioje vietoje, dėka 33 % nuolaidos, kiek primirštas, - „Fallout 4“.
+Pirmoje vietoje pagal perkamumą – „Total War: Warhammer“, žaidimas išleidžiamas rytoj, todėl jo buvimas topo viršūnėje netūrėtų stebinti. Antras pagal perkamumą yra „DOOM“, kuris, kaip žinome, dienos šviesą išvydo daugiau nei prieš savaitę. Trečioje vietoje, dėka 33 % nuolaidos, kiek primirštas, - „Fallout 4“.
 
 Perkamiausių „Steam“ žaidimų Top 10 (Gegužės 23 d.)
 <ol>
@@ -28,4 +28,4 @@ Perkamiausių „Steam“ žaidimų Top 10 (Gegužės 23 d.)
  	<li>„Fallout 4 Far Harbor“</li>
  	<li>„Counter-Strike: Global Offensive“</li>
 </ol>
-<p style="text-align: center"><a href="http://www.technews.lt/portal/wp-content/uploads/2016/05/Steam-top-05-23.jpg"><img class="alignnone wp-image-20792 size-full" src="http://www.technews.lt/portal/wp-content/uploads/2016/05/Steam-top-05-23.jpg" alt="Steam top 05 23" width="765" height="616" /></a></p>
+<p style="text-align: center;"><a href="http://www.technews.lt/portal/wp-content/uploads/2016/05/Steam-top-05-23.jpg"><img class="alignnone wp-image-20792 size-full" src="http://www.technews.lt/portal/wp-content/uploads/2016/05/Steam-top-05-23.jpg" alt="Steam top 05 23" width="765" height="616" /></a></p>
