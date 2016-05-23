@@ -11,11 +11,11 @@ permalink: >
   http://www.technews.lt/portal/news/project-ara-telefonai-kitais-metais/
 published: true
 ---
-Seniau apie „Project Ara“ buvo šnekama daug, bet po to viskas nutilo ir net buvo galvojama, kad „Google“ šis projektas nebedomina. Nepaisant daugelio užlaikymų šis modulinis telefonas vis dėl to bus pasiūlytas pirkėjams, tai turi įvykti kitais metais.
+Seniau apie „Project Ara“ buvo šnekama daug, bet po to viskas nutilo ir net buvo galvojama, kad „Google“ šis projektas nebedomina. Nepaisant daugelio užlaikymų šis modulinis telefonas vis dėlto bus pasiūlytas pirkėjams ir tai turi įvykti kitais metais.
 
-Pranešama, kad buvo perdarytas visas modulinio telefono dizainas, kad būtų kuo lengviau atjungti ir prijungti komponentus. Naujas „Project Ara“ dizainas leis keitinėti šešis modulius.
+Pranešama, kad buvo perdarytas visas modulinio telefono dizainas, jog būtų kuo lengviau atjungti ir prijungti komponentus. Naujas „Project Ara“ dizainas leis keisti šešis modulius.
 
-Kaip ir reklamuota anksčiau norint pakeisti modulį, nereikės net išjungti telefono. Prieš išimant modulį operacinėje sistemoje reikės pasirinkti, kad norite „išstumti“ (ang. efect) norimą komponentą, o tada prijungsite naują. Po šių veiksmų viskas turėtų veikti kaip iki tol, tik jau su nauja telefono dalimi.
+Kaip ir reklamuota anksčiau, norint pakeisti modulį, nereikės net išjungti telefono. Prieš išimant modulį operacinėje sistemoje reikės pasirinkti, kad norite „išstumti“ (ang. eject) norimą komponentą, o tada prijungsite naują. Po šių veiksmų viskas turėtų veikti kaip iki tol, tik jau su nauja telefono dalimi.
 
 Dabar tarp keičiamų komponentų yra: garsiakalbiai, aukštos rezoliucijos kameros, daugiau talpos, antriniai ekranai ir dar daugiau iš „Sony“, „Samsung“ ir „Toshiba“.
-<p style="text-align: center">[youtube https://www.youtube.com/watch?v=aWW5mQadZAY&w=640&h=385]</p>
+<p style="text-align: center;">[youtube https://www.youtube.com/watch?v=aWW5mQadZAY&amp;w=640&amp;h=385]</p>
