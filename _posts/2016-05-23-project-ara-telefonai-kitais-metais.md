@@ -17,5 +17,5 @@ Pranešama, kad buvo perdarytas visas modulinio telefono dizainas, jog būtų ku
 
 Kaip ir reklamuota anksčiau, norint pakeisti modulį, nereikės net išjungti telefono. Prieš išimant modulį operacinėje sistemoje reikės pasirinkti, kad norite „išstumti“ (ang. eject) norimą komponentą, o tada prijungsite naują. Po šių veiksmų viskas turėtų veikti kaip iki tol, tik jau su nauja telefono dalimi.
 
-Dabar tarp keičiamų komponentų yra: garsiakalbiai, aukštos rezoliucijos kameros, daugiau talpos, antriniai ekranai ir dar daugiau iš „Sony“, „Samsung“ ir „Toshiba“.
+Dabar tarp keičiamų komponentų yra: garsiakalbiai, aukštos rezoliucijos kameros, daugiau talpos, antriniai ekranai ir dar daugiau priedų iš „Sony“, „Samsung“ ir „Toshiba“ kompanijų.
 <p style="text-align: center;">[youtube https://www.youtube.com/watch?v=aWW5mQadZAY&amp;w=640&amp;h=385]</p>
