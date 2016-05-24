@@ -14,3 +14,4 @@ Pagaliau sulaukėme „Polaris“ vaizdo plokščių 3DMark testų. Gaila, bet d
 „Polaris 10“ rezultatus iš 3DMark bazės iškapstė „Videocardz“ tinklapis. Kaip jie patys teigia, kol kas neįmanoma įvardinti kokios konfigūracijos „Polaris 10“ lustai buvo testuojami. Nors 3DMark nurodo tą patį 1266 MHz bazinį branduolio dažnį, gauti spartos rezultatai skiriasi iki 20 %, bet kol kas niekas negali pasakyti dėl ko.
 
 Todėl šiuos rezultatus vertinkite gan atsargiai, artimiausiu metu tikrai sužinosime solidesnės informacijos.
+<p style="text-align: center;"><a href="http://www.technews.lt/portal/wp-content/uploads/2016/05/AMD-Radeon-R9-480-3DMark11-Performance.png"><img class="alignnone wp-image-20846" src="http://www.technews.lt/portal/wp-content/uploads/2016/05/AMD-Radeon-R9-480-3DMark11-Performance-800x706.png" alt="AMD-Radeon-R9-480-3DMark11-Performance" width="650" height="574" /></a></p>
