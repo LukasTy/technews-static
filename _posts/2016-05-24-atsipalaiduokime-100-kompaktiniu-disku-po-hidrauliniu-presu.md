@@ -9,5 +9,5 @@ permalink: >
   http://www.technews.lt/portal/news/atsipalaiduokime-100-kompaktiniu-disku-po-hidrauliniu-presu/
 published: true
 ---
-Žmonės dabar susigalvoja įvairiausios veiklos, vienas iš tokių keistų užsiėmimų yra dėti įvairiausius daiktus po hidrauliniu presu. Šį kartą buvo nuspręsta 100 kompaktinių diskų padaryti dar kompaktiškesniais, o duomenis suspausti tiesiogine žodžio prasme.
-<p style="text-align: center">[youtube https://www.youtube.com/watch?v=GrsjMjDKCZQ&w=640&h=360]</p>
+Žmonės dabar susigalvoja įvairiausios veiklos ir vienu iš tokių keistų užsiėmimų tapo įvairiausių daiktų kišimas po hidrauliniu presu. Šį kartą buvo nuspręsta 100 kompaktinių diskų padaryti dar kompaktiškesniais, o duomenis suspausti tiesiogine ta žodžio prasme.
+<p style="text-align: center;">[youtube https://www.youtube.com/watch?v=GrsjMjDKCZQ&amp;w=640&amp;h=360]</p>
