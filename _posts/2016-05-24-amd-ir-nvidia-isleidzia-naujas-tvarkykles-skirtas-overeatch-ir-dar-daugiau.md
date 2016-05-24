@@ -2,7 +2,7 @@
 ID: 20851
 post_title: >
   AMD ir „nVidia“ išleidžia naujas
-  tvarkykles skirtas „Overeatch“ ir
+  tvarkykles skirtas „Overwatch“ ir
   dar daugiau
 author: Mindaugas Klumbis
 post_date: 2016-05-24 10:24:32
