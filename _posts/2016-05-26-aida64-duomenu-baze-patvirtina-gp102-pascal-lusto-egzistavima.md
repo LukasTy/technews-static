@@ -15,7 +15,7 @@ Su nauja vaizdo plokščių karta sulaukėme milžiniško kiekio spekuliacijų i
 
 Grynai į žaidėjus orientuotas GP102 grafikos procesorius neva neturės didelės FP64 skaičiuojamosios galios, dėl ko bus daug kompaktiškesnis. Kas „nVidia“ leistų šiuos lustus gaminti pigiau, taip pat sumažinant defektų tikimybę.
 
-<a href="https://www.facebook.com/AIDA64/posts/1279431795419258">AIDA64</a> pasidalino savo duomenų bazės informacija, kur atskleidžiama visa „Pascal“ lustų linija. Ten matome ne tik GP102, bet ir GP100, GP104, GP106, GP107 ir GP108 lustus. Todėl galime teigti, kad GP102 lustas nėra mitas, tad mes tikrai sulauksime didžiojo „Pascal“ šiuo vardu. Kokia bus grafikos procesoriaus konfigūracija dabar kalbėti dar anksti. Tikimasi, kad šis lustas bus montuojamas į naujuosius Titan ir GTX 1080 Ti grafikos adapterius.
+<a href="https://www.facebook.com/AIDA64/posts/1279431795419258">AIDA64</a> pasidalino savo duomenų bazės informacija, kur atskleidžiama visa „Pascal“ lustų šeima. Ten matome ne tik GP102, bet ir GP100, GP104, GP106, GP107 ir GP108 lustus. Todėl galime teigti, kad GP102 lustas nėra mitas, tad mes tikrai sulauksime didžiojo „Pascal“ šiuo vardu. Kokia bus grafikos procesoriaus konfigūracija dabar kalbėti dar anksti. Tikimasi, kad šis lustas bus montuojamas į naujuosius Titan ir GTX 1080 Ti grafikos adapterius.
 
 AIDA64 pareiškė, kad nors lustų konfigūracijų yra labai daug, bet ne visos pasiekia masinės gamybos stadiją.
 
