@@ -18,9 +18,9 @@ Grynai į žaidėjus orientuotas GP102 grafikos procesorius neva neturės didel�
 <a href="https://www.facebook.com/AIDA64/posts/1279431795419258">AIDA64</a> pasidalino savo duomenų bazės informacija, kur atskleidžiama visa „Pascal“ lustų linija. Ten matome ne tik GP102, bet ir GP100, GP104, GP106, GP107 ir GP108 lustus. Todėl galime teigti, kad GP102 lustas nėra mitas, tad mes tikrai sulauksime didžiojo „Pascal“ šiuo vardu. Kokia bus grafikos procesoriaus konfigūracija dabar kalbėti dar anksti. Tikimasi, kad šis lustas bus montuojamas į naujuosius Titan ir GTX 1080 Ti grafikos adapterius.
 
 AIDA64 pareiškė, kad nors lustų konfigūracijų yra labai daug, bet ne visos pasiekia masinės gamybos stadiją.
-<blockquote><strong>GP100</strong>
 
-15F0 Graphics Device (GP100GL-A)
+<strong>GP100 - </strong>galimos vaizdo plokštės: „TESLA P100“ (išleista), „QUADRO“, „TESLA“, galimai „GeForce“ vaizdo plokštės 2017 m.
+<blockquote>15F0 Graphics Device (GP100GL-A)
 15F1 Graphics Device (GP100GL-A)
 15F8 Graphics Device (GP100GL-A)
 15F9 Graphics Device (GP100GL-A)
@@ -38,10 +38,9 @@ AIDA64 pareiškė, kad nors lustų konfigūracijų yra labai daug, bet ne visos 
 173A Graphics Device (GP100GL-B)
 173B Graphics Device (GP100GL-B)
 173C Graphics Device (GP100GL-B)
-173D Graphics Device (GP100GL-B)
-<strong>GP102</strong>
-
-1B00 Graphics Device (‪#‎GP102‬-A)
+173D Graphics Device (GP100GL-B)</blockquote>
+<strong>GP102 </strong>- galimos vaizdo plokštės: „GeForce GTX 1080 Ti“, naujas „TITAN“, galimai keletas „QUADRO“/“TESLA“
+<blockquote>1B00 Graphics Device (‪#‎GP102‬-A)
 1B01 Graphics Device (GP102-A)
 1B30 Graphics Device (GP102GL-A)
 1B38 Graphics Device (GP102GL-A)
@@ -51,11 +50,9 @@ AIDA64 pareiškė, kad nors lustų konfigūracijų yra labai daug, bet ne visos 
 1B6E Graphics Device (GP102-B)
 1B6F Graphics Device (GP102-B)
 1B70 Graphics Device (GP102GL-B)
-1B78 Graphics Device (GP102GL-B)
-
-<strong>GP104</strong>
-
-1B80 GeForce GTX 1080 (GP104-A)
+1B78 Graphics Device (GP102GL-B)</blockquote>
+<strong>GP104 </strong>- galimos vaizdo plokštės: GTX 1080 (išleista), GTX 1070 (išleista), GTX 1080M ir GTX 1070, galimai keletas „QUADRO“
+<blockquote>1B80 GeForce GTX 1080 (GP104-A)
 1B81 Graphics Device (GP104-A)
 1B82 Graphics Device (GP104-A)
 1B83 Graphics Device (GP104-A)
@@ -69,11 +66,9 @@ AIDA64 pareiškė, kad nors lustų konfigūracijų yra labai daug, bet ne visos 
 1BF0 Graphics Device (GP104GL-B)
 1BF1 Graphics Device (GP104GL-B)
 1BF4 Graphics Device (GP104GL-B)
-1BF5 Graphics Device (GP104GL-B)
-
-<strong>GP106</strong>
-
-1C00 Graphics Device (GP106-A)
+1BF5 Graphics Device (GP104GL-B)</blockquote>
+<strong>GP106 </strong>- galimos vaizdo plokštės: „GeForce GTX 1060“ ir GTX 1060M, viena „QUADRO“ plokštė
+<blockquote>1C00 Graphics Device (GP106-A)
 1C01 Graphics Device (GP106-A)
 1C02 Graphics Device (GP106-A)
 1C03 Graphics Device (GP106-A)
@@ -81,18 +76,14 @@ AIDA64 pareiškė, kad nors lustų konfigūracijų yra labai daug, bet ne visos 
 1C41 Graphics Device (GP106-B)
 1C42 Graphics Device (GP106-B)
 1C43 Graphics Device (GP106-B)
-1C70 Graphics Device (GP106GL-B)
-
-<strong>GP107</strong>
-
-1C80 Graphics Device (GP107-A)
+1C70 Graphics Device (GP106GL-B)</blockquote>
+<strong>GP107</strong> - galimos vaizdo plokštės: „GeForce GTX 1050“ ir GTX 1050M serija, trys „QUADRO“ plokštės
+<blockquote>1C80 Graphics Device (GP107-A)
 1C81 Graphics Device (GP107-A)
 1C82 Graphics Device (GP107-A)
 1CA7 Graphics Device (GP107GL-A)
 1CA8 Graphics Device (GP107GL-A)
 1CAA Graphics Device (GP107GL-A)
-1CC2 Graphics Device (GP107-B)
-
-<strong>GP108</strong>
-
-1D01 Graphics Device (GP108-A)</blockquote>
+1CC2 Graphics Device (GP107-B)</blockquote>
+<strong>GP108 </strong>- galimos vaizdo pokštės: „GeForce GTX 1040/1040M“
+<blockquote>1D01 Graphics Device (GP108-A)</blockquote>
