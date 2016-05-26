@@ -11,7 +11,7 @@ permalink: >
   http://www.technews.lt/portal/news/amd-ruosiasi-keisti-radeon-logotipa/
 published: true
 ---
-Šiandien startuoja AMD renginys žurnalistams vyksiantis Makao. Jo metu tikimasi sužinoti daugiau apie būsimas „Polaris“ vaizdo plokštes. Labiausiai nekantraujančius turime nuliūdinti, nes „Polaris Tech Day“ bus rengiama tik šeštadienį. Tad veikiausiai naujų žinių apie „Polaris“ sužinosime tik savaitgalį.
+Šiandien startuoja AMD renginys žurnalistams, vyksiantis Makao. Jo metu tikimasi sužinoti daugiau apie būsimas „Polaris“ vaizdo plokštes. Labiausiai nekantraujančius turime nuliūdinti, nes „Polaris Tech Day“ bus rengiama tik šeštadienį. Tad veikiausiai naujų žinių apie „Polaris“ sužinosime tik savaitgalį.
 
 Dar vienas įdomus šio renginio akcentas - naujas „Radeon“ logotipas. Kol kas neaišku ar šį naują logotipą AMD panaudojo tik šiame renginyje ar jis pakeis dabar mums įprastą „Radeon Technologies Group“ prekinį ženklą. Daugiau apie tai tikriausiai sužinosime artimiausiomis dienomis.
 
