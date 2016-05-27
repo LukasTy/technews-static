@@ -9,7 +9,7 @@ permalink: >
   http://www.technews.lt/portal/news/amd-polaris-tech-day-draudimas-skelbti-informacija-apie-polaris-baigsis-birzelio-29-d/
 published: true
 ---
-„AMD Polaris Tech Day“ įsibėgėja, o mes gauname pirmuosius informacijos trupinius, kurie tiesa pasakius kiek liūdina.
+„AMD Polaris Tech Day“ įsibėgėja, o mes gauname pirmuosius informacijos trupinius, kurie, tiesa pasakius, kiek liūdina.
 
 <a href="http://www.24liveblog.com/live/1331452#commentstab">Gyvame bloge</a> paskelbta nuotrauka atskleidžia kada pasibaigs draudimas skelbti informaciją apie „Polaris“, ta diena yra birželio 29 d. Kol kas yra neaišku kokiai informacijai bus taikomas šis draudimas. Labiausiai tikėtina, kad birželio 29 dieną bus pradėtos publikuoti „Polaris“ apžvalgos. Tikintis blogiausio scenarijaus nuo paminėtos datos bus atskleistos tik „Polaris“ specifikacijos.
 
