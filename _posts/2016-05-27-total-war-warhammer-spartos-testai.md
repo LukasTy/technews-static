@@ -26,6 +26,8 @@ Matome, kad žaidime įgalinus DirectX 12 daugiau spartos demonstruoja tiek AMD,
 
 &nbsp;
 
+&nbsp;
+
 Gan įdomi situacija susiklostė bandant procesorius. Naudojant DirectX 11 procesoriaus galios poreikis yra milžiniškas. Perėjus prie DirectX 12 galingo procesoriaus poreikis kiek sumažėja, bet i7-5930K veikiantis 4.2 GHz vis tiek demonstruoja daug geresnius rezultatus nei i5-4690. Testuotojai praneša, kad panašiai spartai kaip demonstruoja i7-5930k reikėtų i7-6700 veikiančio 4.7 GHz dažniu.
 <p style="text-align: center"><a href="http://www.technews.lt/portal/wp-content/uploads/2016/05/XxhXDJKP2x6Z9jPMP7XgjD-650-80-1.png"><img class="alignnone wp-image-20921 size-full" src="http://www.technews.lt/portal/wp-content/uploads/2016/05/XxhXDJKP2x6Z9jPMP7XgjD-650-80-1.png" alt="XxhXDJKP2x6Z9jPMP7XgjD-650-80-1" width="650" height="388" /></a></p>
 <p style="text-align: center"><a href="http://www.technews.lt/portal/wp-content/uploads/2016/05/z8ExJ5ptM7gMmY8QxZN4oB-650-80-1.png"><img class="alignleft wp-image-20920 size-thumbnail" src="http://www.technews.lt/portal/wp-content/uploads/2016/05/z8ExJ5ptM7gMmY8QxZN4oB-650-80-1-150x150.png" alt="z8ExJ5ptM7gMmY8QxZN4oB-650-80-1" width="150" height="150" /></a></p>
